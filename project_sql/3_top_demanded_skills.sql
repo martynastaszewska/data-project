@@ -3,7 +3,7 @@ Question: What are the most in-demand skills for Data Analyst?
 - Join job postings to inner join table similar to query2.
 - Identify the top 5 in-demand skills for a Data Analyst in Poland. 
 - Focus on all job postings.
-- Why? It retrives the top 5 skills with the highest demand un the job market, providing insights into the most valuable skills for job seekers. 
+- Why? It retrives the top 5 skills with the highest demand on the job market, providing insights into the most valuable skills for job seekers. 
 */
 
 

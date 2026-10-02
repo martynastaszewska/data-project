@@ -48,7 +48,7 @@ WHERE demand_count > 10
 ORDER BY   
      avg_salary DESC,
     demand_count DESC
-LIMIT 25
+LIMIT 20
 
 
 --we can rewrite this more concisely
@@ -71,4 +71,4 @@ HAVING
 ORDER BY 
     avg_salary DESC,
     demand_count DESC
-LIMIT 25;
+LIMIT 20;
